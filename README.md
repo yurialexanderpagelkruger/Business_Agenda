@@ -44,5 +44,4 @@ La aplicación funciona como un gestor de bases de datos local interactivo. Al i
 
 ## 👨‍💻 Autor
 
-Creado por **Yuri Alexander Pagel Krüger** 
-© 2026 Yuri Alexander Pagel Krüger. Todos los derechos reservados.
+Creado por **Yuri Alexander Pagel Krüger**
